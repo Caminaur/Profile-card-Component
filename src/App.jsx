@@ -6,14 +6,14 @@ import patternBottom from "./assets/images/bg-pattern-bottom.svg";
 
 function App() {
   return (
-    <div className="flex flex-col items-center justify-center h-screen bg-primary-dark-cyan p-8">
+    <div className="flex flex-col items-center justify-center h-screen bg-primary-dark-cyan p-8 overflow-hidden relative">
       <img
-        className="absolute -left-50 -top-140 w-280 z-1"
+        className="absolute top-0 -translate-1/2 md:-translate-[70%]"
         src={patternTop}
         alt=""
       />
       <img
-        className="absolute -right-20 -bottom-170 w-280 z-1"
+        className="absolute bottom-0 translate-x-1/2 translate-y-1/2 z-1 md:translate-x-[55%] md:translate-y-140"
         src={patternBottom}
         alt=""
       />

@@ -1,12 +1,56 @@
-# React + Vite
+# Frontend Mentor - Profile Card Component Solution
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a solution to the [Profile Card Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)
 
-Currently, two official plugins are available:
+## Table of contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [My Solution](#my-solution)
+    - [Desktop](#desktop)
+    - [Mobile](#mobile)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Continued development](#continued-development)
+- [Author](#author)
 
-## Expanding the ESLint configuration
+## Overview
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### The challenge
+
+- Build out the project to the designs provided
+
+### My Solution
+
+#### Desktop
+
+<img src='./src/assets/images/Desktop.png' width='700px' style='border-radius:8px;'/>
+
+#### Mobile
+
+<img src='./src/assets/images/Mobile.png' width='325px' style='border-radius:8px;'/>
+
+### Links
+
+- Live Site URL: [Live site](https://caminaur-profile-card-component.netlify.app/)
+- Solution URL: [Github](https://github.com/Caminaur/Profile-card-Component)
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Mobile-first workflow
+- [React](https://reactjs.org/) (or other tech used)
+- [Tailwind](https://tailwindcss.com/)
+
+### Continued development
+
+Working on the mobile first approach and getting better with Taildwind
+
+## Author
+
+- [Website](https://julian-caminaur.tech/)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/Caminaur)
+- [CSS Battle](https://cssbattle.dev/player/caminaur)
+- [Exercism](https://exercism.org/profiles/Caminaur)
