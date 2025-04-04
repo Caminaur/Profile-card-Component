@@ -72,6 +72,22 @@ function App() {
           </div>
         </div>
       </div>
+      <div class="text-md absolute bottom-2 text-center max-sm:text-xs attribution-div">
+        <a
+          class="text-white font-bold transition-all duration-300 hover:text-teal-200"
+          href="https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ"
+        >
+          Challenge{" "}
+        </a>
+        coded by{" "}
+        <a
+          href="https://github.com/Caminaur/Profile-card-Component"
+          class="text-white font-bold transition-all duration-300 hover:text-teal-200"
+        >
+          Julian Caminaur
+        </a>
+        .
+      </div>
     </div>
   );
 }
